@@ -1,0 +1,2 @@
+rootProject.name='SqlLiteIntro'
+include ':app'
